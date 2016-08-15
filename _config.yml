@@ -1,5 +1,6 @@
-layout_spectrum: 0.689480188768357
 typography_spectrum: 0.36945247766561806
+content_rating:
+  adult: true
 color:
   brandStrength: 0.29747305950149894
   lightness: 0.4874120594467968
@@ -11,4 +12,10 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+opengraph:
+  appId: chris.thomas
+layout_spectrum: 0.689480188768357
+author:
+  name: Chris Thomas
+  email: cxthom@gmail.com
 name: cxthom
